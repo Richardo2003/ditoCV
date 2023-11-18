@@ -13,7 +13,7 @@ const Homepage = () => {
           <i className="bi bi-geo-alt-fill" />
         </div>
         <div className="contact-text">
-          <p>F43C+89R Danowudu, Kota Bitung, Sulawesi Utara</p>
+          <p><b>F43C+89R Danowudu, Kota Bitung, Sulawesi Utara</b></p>
         </div>
       </div>
       <div className="contact-list">
@@ -21,7 +21,7 @@ const Homepage = () => {
           <i className="bi bi-facebook" />
         </div>
         <div className="contact-text">
-          <p>facebook.com/dito</p>
+          <p><b>facebook.com/dito</b></p>
         </div>
       </div>
       <div className="contact-list">
@@ -29,7 +29,7 @@ const Homepage = () => {
           <i className="bi bi-instagram" />
         </div>
         <div className="contact-text">
-          <p>instagram.com/ditoemor</p>
+          <p><b>instagram.com/ditoemor</b></p>
         </div>
       </div>
       <div className="contact-list">
@@ -37,7 +37,7 @@ const Homepage = () => {
           <i className="bi bi-whatsapp" />
         </div>
         <div className="contact-text">
-          <p>+62 815-2720-5595 </p>
+          <p><b>+62 815-2720-5595 </b></p>
         </div>
       </div>
     </div>
@@ -63,7 +63,7 @@ const Homepage = () => {
       <h2 className="title">Skills</h2>
       <div className="skill">
         <div className="left-skill">
-          <p>HTML &ensp; &ensp;&ensp;90%</p>
+          <p><b>HTML &ensp; &ensp;&ensp;90%</b></p>
         </div>
         <div className="right-skill">
           <div className="outer-layer">
@@ -73,7 +73,7 @@ const Homepage = () => {
       </div>
       <div className="skill">
         <div className="left-skill">
-          <p>CSS &ensp;&ensp;&ensp;&ensp;&ensp; 70%</p>
+          <p><b>CSS &ensp;&ensp;&ensp;&ensp;&ensp; 70%</b></p>
         </div>
         <div className="right-skill">
           <div className="outer-layer">
@@ -83,11 +83,11 @@ const Homepage = () => {
       </div>
       <div className="skill">
         <div className="left-skill">
-          <p>JS &ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;85%</p>
+          <p><b>JS &ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;80%</b></p>
         </div>
         <div className="right-skill">
           <div className="outer-layer">
-            <div className="inner-layer" style={{width: '85%'}} />
+            <div className="inner-layer" style={{width: '80%'}} />
           </div>
         </div>
       </div>
@@ -107,8 +107,8 @@ const Homepage = () => {
           <p className="date"></p>
         </div>
         <h2 className="company-name">Latar Belakang Pendidikan saya:</h2>
-        <p className="work-text">Saya adalah mahasiswa tahun kedua di Fakultas Ilmu Komputer, Universitas Klabat. Saat ini,
-         saya sedang mengejar gelar Sarjana Komputer dengan fokus pada Pengembangan Perangkat Lunak.</p>
+        <p className="work-text"><b>Saya adalah mahasiswa tahun kedua di Fakultas Ilmu Komputer, Universitas Klabat. Saat ini,
+         saya sedang mengejar gelar Sarjana Komputer dengan fokus pada Pengembangan Perangkat Lunak.</b></p>
       </div>
       <div className="work">
         <div className="job-date">
@@ -116,8 +116,8 @@ const Homepage = () => {
           <p className="date"></p>
         </div>
         <h2 className="company-name">Keahlian dan Keterampilan yang saya miliki:</h2>
-        <p className="work-text">Keahlian saya melibatkan bahasa pemrograman Python, Java, dan SQL. Selain itu, 
-        saya memiliki keterampilan mendesign Web didalam VS Code.</p>
+        <p className="work-text"><b>Keahlian saya melibatkan bahasa pemrograman Python, Java, dan SQL. Selain itu, 
+        saya memiliki keterampilan mendesign Web didalam VS Code.</b></p>
       </div>
       <div className="work">
         <div className="job-date">
@@ -125,8 +125,8 @@ const Homepage = () => {
           <p className="date"></p>
         </div>
         <h2 className="company-name">Tujuan dan Aspirasi saya:</h2>
-        <p className="work-text">Dengan latar belakang ini, tujuan saya adalah menggabungkan pengetahuan teknis saya dengan kontribusi positif dalam pengembangan perangkat lunak yang inovatif. 
-        Saya berharap dapat memulai karir di industri teknologi setelah lulus.</p>
+        <p className="work-text"><b>Dengan latar belakang ini, tujuan saya adalah menggabungkan pengetahuan teknis saya dengan kontribusi positif dalam pengembangan perangkat lunak yang inovatif. 
+        Saya berharap dapat memulai karir di industri teknologi setelah lulus.</b></p>
       </div>
       <div className="work">
         <div className="job-date">
@@ -134,9 +134,9 @@ const Homepage = () => {
           <p className="date"></p>
         </div>
         <h2 className="company-name">Jurusan yang saya tekuni saat ini:</h2>
-        <p className="work-text">Jurusan Teknik Informatika adalah program studi di perguruan tinggi yang memfokuskan pada teknologi informasi dan komputer. 
+        <p className="work-text"><b>Jurusan Teknik Informatika adalah program studi di perguruan tinggi yang memfokuskan pada teknologi informasi dan komputer. 
         Siswa mempelajari pemrograman, perangkat lunak, perangkat keras, jaringan, sistem operasi, basis data, keamanan informasi, kecerdasan buatan, dan aplikasi teknologi seperti pengolahan citra dan suara. Tujuan program ini adalah untuk mempersiapkan siswa untuk karir di bidang pengembangan perangkat lunak, analisis data, keamanan informasi, dan bidang terkait lainnya.
-         Program ini sering melibatkan proyek akhir untuk menerapkan pengetahuan dalam situasi dunia nyata.</p>
+         Program ini sering melibatkan proyek akhir untuk menerapkan pengetahuan dalam situasi dunia nyata.</b></p>
       </div>
     </div>
     <div className="references-container">

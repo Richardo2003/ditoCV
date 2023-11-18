@@ -17,22 +17,22 @@
 }
 
 body{
-    background-color: #b5b5b5;
+    background-color: #000000;
 }
 
 .main-section{
     width: 210mm;
     height: 297mm;
-    background-color: white;
+    background-color: rgb(160, 160, 160);
     margin: 0 auto;
-    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+    box-shadow: rgb(149, 168, 223) 0px 5px 15px;
     display: flex;
 }
 
 .main-section .left-part{
     width: 40%;
     height: 100%;
-    background-color: #848484;
+    background-color: #ffffff;
     padding: 2.8rem;
 }
 
@@ -44,8 +44,8 @@ body{
     width: 100%;
     height: 100%;
     border-radius: 50%;
-    border: 1rem solid white;
-    box-shadow: rgba(149, 157, 165, 0.2) 0px 8px 24px;
+    border: 0.5rem solid white;
+    box-shadow: rgb(149, 168, 223) 0px 8px 24px;
 }
 
 .title{
@@ -53,8 +53,8 @@ body{
     font-size: 1.4rem;
     text-transform: uppercase;
     padding: 0.6rem;
-    background-color: rgb(125, 143, 199);
-    color: white;
+    background-color: rgb(149, 168, 223);
+    color: rgb(172, 172, 172)S;
     text-align: center;
     margin: 1.4rem 0;
 }
@@ -68,7 +68,7 @@ body{
     gap: 1rem;
     margin-bottom: 1rem;
     font-family: 'Lato', sans-serif;
-    color: #444440;
+    color: #000000;
     font-size: 1rem;
 }
 
@@ -79,7 +79,7 @@ body{
 
 .education-container .course{
     margin-bottom: 1rem;
-    color: #414042;
+    color: #000000;
 }
  
 .education-container .education-title{
@@ -103,18 +103,19 @@ body{
     justify-content: space-between;
     align-items: center;
     margin-bottom: 0.6rem;
+    color: rgb(0, 0, 0);
     font-family: 'Lato', sans-serif;
 }
 
 .skills-container .skill .right-skill .outer-layer{
-    background-color: #BBBBBB;
+    background-color: rgb(76, 76, 76);
     height:0.4rem;
     width: 5rem;
     border-radius: 0.4rem;
 }
 
 .skills-container .skill .right-skill .inner-layer{
-    background-color: #3D3D3D;
+    background-color: rgb(149, 168, 223);
     height: 100%;
     border-radius: inherit;
 }
@@ -125,7 +126,7 @@ body{
 
 .right-part .banner{
     font-family: 'Open Sans', sans-serif; 
-    color: #4040ff;
+    color: #ffffff;
     margin-bottom: 2.2rem;
 }
 
@@ -158,7 +159,7 @@ body{
 .work-container .work .job-date{
     display: flex;
     justify-content: space-between;
-    color: #4D4D4F;
+    color: #ffffff;
     margin-bottom: 0.5rem;
     font-size: 0.7rem;
     font-weight: 500;
@@ -168,12 +169,12 @@ body{
     font-size: 0.9rem;
     font-weight: 700;
     margin-bottom: 0.5rem;
-    color: #4D4D4F;
+    color: #ffffff;
 
 }
 
 .work-container .work .work-text{
-    color: #737373;
+    color: #000000;
     font-size: 0.8rem;
     text-align: justify;
     line-height: 1rem;
@@ -184,7 +185,7 @@ body{
     justify-content: space-between;
     margin-top: 1rem;
     font-family: 'Lato', sans-serif;
-    color: #4D4D4F;
+    color: #ffffff;
 }
 
 .references-container .references .name{
@@ -201,7 +202,7 @@ body{
     display: flex;
     justify-content: space-between;
     font-size: 0.7rem;
-    color: #414042;
+    color: #ffffff;
 }
 .references-container .references .phone p{
     margin: 0.4rem 0;

@@ -95,9 +95,9 @@ const Homepage = () => {
   </div>
   <div className="right-part">
     <div className="banner">
-      <h1 className="firstname">Fransditho</h1>
-      <h1 className="lastname">Richardo</h1>
-      <p className="position"> web developer</p>
+      <center><h1 className="firstname">Fransditho</h1>
+      <h1 className="lastname">Richardo</h1></center>
+      <center><p className="position"> web developer</p></center>
     </div>
     <div className="work-container ">
       <h2 className="title text-left">ABOUT ME</h2>
